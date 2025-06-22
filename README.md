@@ -1,16 +1,40 @@
-## Hi there 👋
+<h2 align="center">Hey there, I'm <a href="https://github.com/meylis-mobdev">Alex Carter</a></h3>
+<p align="center">Web and Mob Developer</p>
 
-<!--
-**meylis-mobdev/meylis-mobdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm Doing
 
-Here are some ideas to get you started:
+- Im new Freelancer
+- Working As Mobile and Web Developer
+- Now Im Building Mobile app, E-commerce
+- Learning node.js, mongo db and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frontend tools
+
+<p align="left"> <a href="https://github.com/meylis-mobdev"><img src="https://skillicons.dev/icons?i=nextjs,vite,react,ts,html,css,js,dart,flutter,nodejs,materialui,tailwind,mongodb,jquery&perline=7"> </a> </p>
+<h3 align="left">Tech Stack:</h3>
+
+- Vite, Next JS
+- Tailwind CSS
+- Typescript, React
+- Framer-motion
+- html, css, scss
+- flutter, dart
+- axios, tanstackQuery
+- javaScript, JQuery
+- Git
+
+## Contacts
+
+- [Linkedin](https://www.linkedin.com/in/alex-carter-21b7b9370 )
+- Gmail: [meylis.developer@gmail.com](mailto:meylis.developer@gmail.com)
+- [Telegram](https://t.me/meylis_web)
+- Here more info about me: CV ( soon )
+- Portfolio Website ( soon )
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/meylis-mobdev">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=meylis-mobdev&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
