@@ -1,5 +1,5 @@
-<h2 align="center">Hey there, I'm <a href="https://github.com/meylis-mobdev">Alex Carter</a></h3>
-<p align="center">Web and Mob Developer</p>
+<h2 align="center">Hey there, I'm <a href="https://github.com/meylis-mobdev">Alex Carter</a>👋</h3>
+<p align="left">Web and Mob Developer</p>
 
 ## What I'm Doing
 
