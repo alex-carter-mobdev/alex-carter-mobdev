@@ -27,7 +27,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/alex-carter-21b7b9370 )
 - Gmail: [meylis.developer@gmail.com](mailto:meylis.developer@gmail.com)
-- [Telegram](https://t.me/meylis_web)
+- [Telegram](https://t.me/Alex_Carter_mobdev)
 - Here more info about me: CV ( soon )
 - Portfolio Website ( soon )
 
